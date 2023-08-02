@@ -1,0 +1,9 @@
+#titulo {
+    font-family: sans-serif;
+    color: blue;
+}
+
+.input {
+    display: flex;
+    
+}
